@@ -1,1 +1,3 @@
-# LSTM_regression
+# LSTM time series forecasting
+
+![plot](plot.png)
